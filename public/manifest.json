@@ -1,0 +1,10 @@
+{
+    "name": "Scan Reader",
+    "short_name": "Scan Reader",
+    "theme_color": "#641ae6",
+    "background_color": "#2a303c",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/"
+  }
